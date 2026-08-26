@@ -1,1 +1,0 @@
-# COMPUTA-O-VISUAL
