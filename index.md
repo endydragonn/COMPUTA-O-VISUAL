@@ -17,4 +17,4 @@ Este blog trará o conjunto de todos os posts realizados na materia Computação
 - [Minha ideia de Computação Visual](post1.md)
 
 25/08/2026
-- [Uma Pergunta "boba"](post2.md)
+- [Por que usamos RGB para representar cores?](post2.md)
