@@ -1,0 +1,58 @@
+---
+---
+@import "{{ site.theme }}";
+
+body {
+  background-color: #1b222c;
+  color: #d1d9e0;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+  color: #58a6ff;
+}
+
+.main-content a {
+  color: #79c0ff;
+}
+
+.main-content pre,
+.main-content code {
+  background-color: #242c36;
+  color: #d1d9e0;
+}
+
+.main-content h2.my-name {
+  font-size: 1.3em;
+  font-weight: 900;
+}
+
+.main-content blockquote {
+  color: #9da7b3;
+  border-left: 3px solid #3b4654;
+}
+
+.page-header .btn {
+  display: none !important;
+}
+
+.page-header {
+  background: linear-gradient(120deg, #263445, #1769aa);
+}
+
+.main-content a {
+  font-size: 1.1em;
+  font-weight: 700;
+}
+
+.page-header .project-name {
+  font-weight: 800;
+}
+
+.main-content hr {
+  border: none;
+  border-top: 1px solid #3b4654;
+  margin: 1.5em 0;
+}
