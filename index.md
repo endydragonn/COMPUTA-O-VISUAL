@@ -14,7 +14,7 @@ Este blog trará o conjunto de todos os posts realizados na materia Computação
 
 ## Posts: 
 25/08/2026
-- [Impressão x Realidade](Post_1.md)
+- [Minha ideia de Computação Visual](post1.md)
 
 25/08/2026
-- [Uma Pergunta "boba"](Post_2.md)
+- [Uma Pergunta "boba"](post2.md)
