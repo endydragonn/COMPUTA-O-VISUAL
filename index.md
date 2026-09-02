@@ -18,3 +18,6 @@ Este blog trará o conjunto de todos os posts realizados na materia Computação
 
 25/08/2026
 - [Por que usamos RGB para representar cores?](post2.md)
+
+01/09/2026
+- [Como os computadores conseguem reconhecer objetos em imagens?](post3.md)
