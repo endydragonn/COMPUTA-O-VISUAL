@@ -21,3 +21,6 @@ Este blog trará o conjunto de todos os posts realizados na materia Computação
 
 01/09/2026
 - [Como os computadores conseguem reconhecer objetos em imagens?](post3.md)
+
+15/09/2026
+- [Como os computadores encontram as bordas dos objetos em uma imagem?](post4.md)
