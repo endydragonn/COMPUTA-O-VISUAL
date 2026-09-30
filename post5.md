@@ -14,7 +14,7 @@
 
  Portanto, o histograma é uma forma simples, mas poderosa, de transformar uma imagem em uma representação numérica que pode ser analisada pelo computador. Ao observar a distribuição dos pixels, é possível obter informações sobre **brilho, contraste e cores** sem precisar examinar individualmente todos os elementos da imagem.
 
- ## Para saber mais
+## Para saber mais
 
  Assista a um vídeo sobre **histogramas de imagens e processamento de imagens**, explorando como essa ferramenta pode ser utilizada para analisar e melhorar imagens:
 
