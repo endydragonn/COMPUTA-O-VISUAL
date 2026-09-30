@@ -24,3 +24,6 @@ Este blog trará o conjunto de todos os posts realizados na materia Computação
 
 15/09/2026
 - [Como os computadores encontram as bordas dos objetos em uma imagem?](post4.md)
+
+29/09/2026
+- [Como um histograma ajuda o computador a entender uma imagem?](post5.md)
