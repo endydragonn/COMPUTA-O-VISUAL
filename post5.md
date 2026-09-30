@@ -18,8 +18,8 @@
 
  Assista a um vídeo sobre **histogramas de imagens e processamento de imagens**, explorando como essa ferramenta pode ser utilizada para analisar e melhorar imagens:
 
- Assista ao vídeo no YouTube
+ [Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=KkrVndsfZiw)
 
 ---
 
- - Voltar a página inicial
+ - [Voltar a página inicial](index.md)
