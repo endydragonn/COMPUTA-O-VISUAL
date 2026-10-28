@@ -27,3 +27,6 @@ Este blog trará o conjunto de todos os posts realizados na materia Computação
 
 29/09/2026
 - [Como um histograma ajuda o computador a entender uma imagem?](post5.md)
+
+27/10/2026
+- [Como funciona o pipeline gráfico na computação visual?](post7.md)
